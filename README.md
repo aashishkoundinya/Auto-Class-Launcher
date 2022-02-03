@@ -10,4 +10,6 @@ This program will open a website set by you and automatically perform clicks whe
 
 If you dont need to add any new "SetCursorPos" then just insert the "URL" and the "X,Y coordinates" and run the program.
 
+Run the Code in any code editor.
+
 Enjoy the automated program!!
