@@ -1,5 +1,5 @@
 # Auto-Class-Launcher
-Opens your online class from a website from a .exe
+Opens your online class website from a .exe file.
 
 This program will open a website set by you and automatically perform clicks whereever you like it to!
 1. Add the WEBSITE URL in the "INSERT URL HERE" in the code.
